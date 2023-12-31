@@ -84013,4 +84013,4 @@
 0.0.0.0 us-east-050.windscribe.com
 0.0.0.0 au.windscribe.com
 0.0.0.0 us-west-048.windscribe.com
-
+.*\.epicgames.com
